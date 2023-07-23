@@ -11,7 +11,7 @@
   <p align="center">
     Simple interaction with the Ethereum blockchain using Ether.js
     <br />
-    <a href="https://github.com/drezniev/Project-1/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/drezniev/etherjs-simple-project/"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/drezniev/Project-1/)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/drezniev/etherjs-simple-project/)
 
 Simple interaction with the Ethereum blockchain using Ether.js
 In this project, you are able to:
@@ -72,7 +72,7 @@ You will also need something to set up a localhost server. I used [http-server](
 
 1. Clone the repo
    ```sh
-    git clone https://github.com/drezniev/Project-1.git
+    git clone https://github.com/drezniev/etherjs-simple-project.git
    ```
 2. Install NPM packages
    ```sh
